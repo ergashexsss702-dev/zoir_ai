@@ -1,0 +1,8 @@
+{
+  "name": "ZOIR AI",
+  "description": "Intelligent conversational AI assistant powered by Google Gemini, optimized for Vercel and full-stack deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
